@@ -28,7 +28,7 @@
 
         <config-file target="res/xml/config.xml" parent="/*">
             <feature name="WebSocket">
-                <param name="android-package" value="com.ququplay.websocket.WebSocket" />
+                <param name="android-package" value="com.phonegap.plugin.websocket.WebSocket" />
             </feature>
         </config-file>
 
