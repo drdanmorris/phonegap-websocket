@@ -1,4 +1,4 @@
-package com.ququplay.websocket;
+package com.phonegap.plugin.websocket;
 
 import java.lang.reflect.Constructor;
 import java.net.URI;
