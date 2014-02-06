@@ -1,4 +1,5 @@
-package com.ququplay.websocket;
+package com.phonegap.plugin.websocket;
+
 
 import java.security.KeyStore;
 import java.security.KeyStoreException;
